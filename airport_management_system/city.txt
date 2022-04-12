@@ -1,0 +1,11 @@
+DLI,Delhi,2,1
+BMB,Mumbai,5,0
+HYD,Hyderabad,6,1
+CHN,Chennai,7,2
+JPR,Jaipur,3,0
+BGU,Bengaluru,6,0
+KOK,Kolkata,2,3
+CHD,Chandigarh,1,0
+PUN,Pune,4,0
+BPL,Bhopal,3,1
+SRI,Srinagar,0,0
